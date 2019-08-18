@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc396eeb-7281-41d6-b39f-bf19ab6e5490" name="Default" comment="" />
+    <list default="true" id="cc396eeb-7281-41d6-b39f-bf19ab6e5490" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No3/TestNo3.java" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_programmer/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../JAVA_programmer/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/No1_LinkedList_Reverse/Test.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../JAVA_programmer/target/classes/com/guoge/ch1_LinkerList/No1_LinkedList_Reverse/Test.class" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/../JAVA_programmer/out/" />
     <ignored path="$PROJECT_DIR$/../JAVA_programmer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,17 +32,37 @@
         <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/LNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/No1_LinkedList_Reverse/Test.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No1_LinkedList_Reverse/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+            <state relative-caret-position="308">
+              <caret line="59" column="9" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="59" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNo2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No2_Remove_DuplicateElements/TestNo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestNo3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No3/TestNo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -52,6 +77,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../JAVA_programmer" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -60,8 +88,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/LNode.java" />
         <option value="$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/No1_LinkedList_Reverse/Test.java" />
+        <option value="$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No1_LinkedList_Reverse/No1_LinkedList_Reverse/Test.java" />
+        <option value="$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/LNode.java" />
+        <option value="$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No1_LinkedList_Reverse/Test.java" />
+        <option value="$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No2_Remove_DuplicateElements/TestNo2.java" />
       </list>
     </option>
   </component>
@@ -364,6 +395,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -455,7 +489,32 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="guoge" type="462c0819:PsiDirectoryNode" />
               <item name="ch1_LinkerList" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1" type="462c0819:PsiDirectoryNode" />
               <item name="No1_LinkedList_Reverse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA_programmer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_programmer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="guoge" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1_LinkerList" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1" type="462c0819:PsiDirectoryNode" />
+              <item name="No2_Remove_DuplicateElements" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA_programmer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA_programmer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="guoge" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1_LinkerList" type="462c0819:PsiDirectoryNode" />
+              <item name="ch1" type="462c0819:PsiDirectoryNode" />
+              <item name="No3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA_programmer" type="b2602c69:ProjectViewProjectNode" />
@@ -487,7 +546,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestNo2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -502,6 +561,44 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.guoge.ch1_LinkerList.No1_LinkedList_Reverse.Test" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../JAVA_programmer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JAVA_programmer" />
+      <envs />
+    </configuration>
+    <configuration name="Test0" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.guoge.ch1_LinkerList.ch1.No1_LinkedList_Reverse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.guoge.ch1_LinkerList.ch1.No1_LinkedList_Reverse.Test" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../JAVA_programmer" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="JAVA_programmer" />
+      <envs />
+    </configuration>
+    <configuration name="TestNo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.guoge.ch1_LinkerList.ch1.No2_Remove_DuplicateElements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.guoge.ch1_LinkerList.ch1.No2_Remove_DuplicateElements.TestNo2" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../JAVA_programmer" />
@@ -587,9 +684,15 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Test0" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestNo2" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestNo2" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test0" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -606,12 +709,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566132797362</updated>
-      <workItem from="1566132801090" duration="1583000" />
+      <workItem from="1566132801090" duration="3137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1583000" />
+    <option name="totallyTimeSpent" value="3137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -625,12 +728,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2446206" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2446206" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08267271" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19366953" sideWeight="0.81778264" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31866953" sideWeight="0.81778264" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49615806" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -669,18 +772,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/LNode.java">
+    <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No1_LinkedList_Reverse/No1_LinkedList_Reverse/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        <state relative-caret-position="164">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/No1_LinkedList_Reverse/Test.java">
+    <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/LNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="26" column="16" lean-forward="true" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        <state relative-caret-position="90">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No3/TestNo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No1_LinkedList_Reverse/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="59" column="9" lean-forward="true" selection-start-line="57" selection-start-column="8" selection-end-line="59" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JAVA_programmer/src/main/java/com/guoge/ch1_LinkerList/ch1/No2_Remove_DuplicateElements/TestNo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
           <folding />
         </state>
       </provider>

@@ -1,6 +1,7 @@
-package com.guoge.ch1_LinkerList.No1_LinkedList_Reverse;
+package com.guoge.ch1_LinkerList.ch1.No1_LinkedList_Reverse;
 
 import com.guoge.ch1_LinkerList.ch1.LNode;
+
 //带头结点的链表逆置
 public class Test {
     public static void Reverse(LNode head){
@@ -32,7 +33,7 @@ public class Test {
         cur.next = pre;
         //前面孤立的结点现在指向cur
         head.next = cur;
-        }
+    }
 
     public static void main(String[] args) {
         LNode head = new LNode();
