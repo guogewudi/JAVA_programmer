@@ -1,7 +1,7 @@
 package com.guoge.ch1_LinkerList.ch1.No2_Remove_DuplicateElements;
 
 import com.guoge.ch1_LinkerList.ch1.LNode;
-
+//删除链表之中重复的元素
 public class TestNo2 {
     public static void removeDuplicatedElements(LNode head){
         if(head==null||head.next==null){
